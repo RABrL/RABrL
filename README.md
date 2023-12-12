@@ -1,4 +1,4 @@
-# Hi, I'm Juan Pablo 👋🏽
+# Hi, I'm Andres Brito 👋🏽
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/jpaddeo/jpaddeo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/jpaddeo/jpaddeo/output/github-contribution-grid-snake.svg#gh-light-mode-only)
@@ -6,9 +6,8 @@
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 - 👨🏻‍💻 System's Engineer. Fullstack Developer. Code Lover.
-- 📕 Portfolio & Resume [jpaddeo.work](https://jpaddeo.work)
-- 🏡💻 Currently I+D Lead at [Ministerio Público Fiscal de la CABA](https://mpfciudad.gob.ar)
-- ⚪️🔵 Hincha de [Racing Club](https://www.racingclub.com.ar) 
+<!-- - 📕 Portfolio & Resume [jpaddeo.work](https://jpaddeo.work) -->
+- 🏡💻 Ready for work
 <!-- - 🟣 Trying to be _Livecoder Streamer_ on [Twitch](https://twitch.tv/jpaddeo) -->
 
 ###
