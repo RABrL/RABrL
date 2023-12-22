@@ -44,12 +44,8 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 <h3 align="center">G I T H U B  - S T A T S</h3>
 <div align="center">
   
-  ![Juan Pablo Addeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpaddeo&show_icons=true&count_private=true&hide_border=true)
   ![Andres Brito's GitHub stats](https://github-readme-stats.vercel.app/api?username=RABrL&show_icons=true&count_private=true&hide_border=true)
-  ![Juan Pablo Addeo's GitHub languages stats](https://github-readme-stats.vercel.app/api/top-langs?username=jpaddeo&show_icons=true&locale=en&layout=compact)
   ![Andres Brito's GitHub languages stats](https://github-readme-stats.vercel.app/api/top-langs?username=RABrL&show_icons=true&locale=en&layout=compact)
-  
-  ![Juan Pablo Addeo's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jpaddeo)
   ![Andres Brito's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RABrL)
   
 </div>
