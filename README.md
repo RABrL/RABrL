@@ -37,7 +37,7 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
   </div>
 
   <br/>
-   ![GitHub followers](https://img.shields.io/github/followers/RABrL?style=social)
+   ![https://img.shields.io/github/followers/RABrL?style=social](https://img.shields.io/github/followers/RABrL?style=social))
    ![Twitch](https://img.shields.io/twitch/status/jpaddeo?style=social)
 </div>
 
