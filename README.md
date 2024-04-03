@@ -32,7 +32,7 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
   </div>
 
   <br/>
-   ![Github Followers](https://img.shields.io/github/followers/RABrL?style=social)
+   <!-- ![Github Followers](https://img.shields.io/github/followers/RABrL?style=social) -->
 </div>
 
 <h3 align="center">G I T H U B  - S T A T S</h3>
