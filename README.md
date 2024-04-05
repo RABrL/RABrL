@@ -28,7 +28,7 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" width="52" alt="docker logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="45" width="52" alt="apache logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="45" width="52" alt="nginx logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" width="52" alt="github logo" style="background-color: #dddddd;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" width="52" alt="github logo" style="background-color: #fff;" />
   </div>
 
   <br/>
